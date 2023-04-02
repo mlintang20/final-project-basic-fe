@@ -1,5 +1,9 @@
 # BE BASIC HTML CSS - Final Course Project
 
+## Link Deploy
+
+https://mlintang20.github.io/final-project-basic-fe/src/index.html
+
 ## Objectives
 
 * Bisa membuat styling halaman web dengan Tailwind CSS.
